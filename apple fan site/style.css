@@ -1,0 +1,27 @@
+body{
+    background-color: blue;
+}
+h1{
+    color: red;
+    background-color: rgb(252, 252, 108);
+    
+}
+img{
+    background-color: red;
+}
+.apple{
+    background-color: aqua; 
+}
+.new_apple{
+    background-color: blueviolet;
+}
+img:hover{
+    background-color: gold;
+}
+.circular{
+    border-radius: 50%;
+}
+
+#heading{
+    color: rgb(169, 207, 79);
+}
